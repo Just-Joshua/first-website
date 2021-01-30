@@ -1,0 +1,82 @@
+body {
+    background-color: burlywood;
+}
+.smaller-image {
+   max-width: 100%;
+height: auto;
+margin: 0px 0px 0px 0px;
+}
+.adjust {
+    margin: 0px 0px 0px 0px;
+}
+.border {
+    border-style: solid;
+    color: white;
+    background-color: black;
+    border-width: 0px;
+    border-radius: 5px;
+}
+.first {
+    position: absolute;
+    left: 200px;
+    top: 400px;
+}
+nav {
+margin: 5px 0px 0px 1087px;
+}
+.move1 {
+    margin-right: 20px
+}
+.move2 {
+    margin-right: 12px;
+}
+.move3 {
+margin-right: 12px
+}
+.move4 {
+    margin-right: 12px
+}
+
+h1 {
+    color: white;
+    font-size: 70px;
+}
+.move5 {
+    border-style: solid;
+    background-color: black;
+    color: white;
+    border-radius: 4px;
+    border-width: 1px;
+}
+.move5 {
+    position: absolute;
+    bottom: 70px;
+    left: 450px;
+}
+.move6 {
+    border-style: solid;
+    background-color: black;
+    color: white;
+    border-radius: 4px;
+    border-width: 1px;
+}
+.move6 {
+    position: absolute;
+    bottom: 70px;
+    left: 620px;
+}
+.move7 {
+    border-style: solid;
+    background-color: black;
+    color: white;
+    border-radius: 4px;
+    border-width: 1px;
+}
+.move7{
+    position: absolute;
+    bottom: 70px;
+    left: 780px;
+}
+a:hover {
+    color: teal;
+}
